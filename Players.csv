@@ -1,0 +1,89 @@
+﻿player_id,name,age,total_run,total_wicket,belong_to
+P001,Rohit,33,5324,15,MI
+P002,De Kock,28,2001,0,MI
+P003,Suryakumar,30,2121,0,MI
+P004,Kishan,22,1252,0,MI
+P005,Hardik,27,1384,42,MI
+P006,Pollard,33,3070,60,MI
+P007,Krunal,30,1025,49,MI
+P008,Marco,20,0,2,MI
+P009,Rahul,21,25,37,MI
+P010,Bumrah,27,41,112,MI
+P011,Boult,31,30,69,MI
+P012,Kohli,32,5949,4,RCB
+P013,Padikkal,20,509,0,RCB
+P014,Patidar,27,9,0,RCB
+P015,Maxwell,32,1681,19,RCB
+P016,Ab de Villiers,37,4974,0,RCB
+P017,Jamieson,26,27,3,RCB
+P018,Chahal,30,22,122,RCB
+P019,Ahmed,26,16,5,RCB
+P020,Siraj,27,46,41,RCB
+P021,Harshal,30,132,53,RCB
+P022,Sundar,21,204,26,RCB
+P023,Shikhar,35,5290,4,DC
+P024,Prithvi,21,900,0,DC
+P025,Rahane,32,3941,1,DC
+P026,Hetmyer,24,275,0,DC
+P027,Stoinis,31,839,28,DC
+P028,Pant,23,2145,0,DC
+P029,Axar,27,913,80,DC
+P030,Ashwin,34,419,139,DC
+P031,Rabada,25,134,63,DC
+P032,Nortje,27,7,22,DC
+P033,Avesh,24,4,10,DC
+P034,KL Rahul,29,2743,0,PBKS
+P035,Mayank,30,1708,0,PBKS
+P036,Gayle,41,4822,18,PBKS
+P037,Pooran,25,521,0,PBKS
+P038,Hooda,25,699,7,PBKS
+P039,Richardson,24,15,1,PBKS
+P040,Shahrukh,25,53,0,PBKS
+P041,M. Ashwin,30,14,26,PBKS
+P042,Bishnoi,20,7,12,PBKS
+P043,Meredith,24,0,1,PBKS
+P044,Shami,30,65,64,PBKS
+P045,MS Dhoni,40,7050,0,CSK
+P046,Faf du Plessis,30,3562,0,CSK
+P047,Ruturaj Gaikwad,32,2653,0,CSK
+P048,Suresh Raina,42,4802,6,CSK
+P049,Ambati Rayudu,38,2560,0,CSK
+P050,Ravindra Jadeja,36,3600,156,CSK
+P051,Sam Curran,23,1209,45,CSK
+P052,Dwayne Bravo,32,998,102,CSK
+P053,Deepak Chahar,29,789,96,CSK
+P054,Shardul Thakur,30,302,56,CSK
+P055,Moeen Ali,32,506,45,CSK
+P056,David Warner,39,4589,0,SRH
+P057,Kane Williamson,42,6589,0,SRH
+P058,Jonny Bairstow,30,4525,0,SRH
+P059,Manish Pandey,36,4865,2,SRH
+P060,Saha,36,2568,2,SRH
+P061,Jason Holder,32,4526,12,SRH
+P062,Kedar Jadhav,38,3025,15,SRH
+P063,Mohammad Nabi,36,4520,16,SRH
+P064,Rashid Khan,35,2023,90,SRH
+P065,T. Natarajan,29,758,69,SRH
+P066,Khaleel Ahmed,37,485,45,SRH
+P067,Sanju Samson,31,4856,0,RR
+P068,Ben Stokes,39,4526,0,RR
+P069,Jos Buttler,29,5487,0,RR
+P070,Shreyas Gopal,30,1524,12,RR
+P071,Rahul Tewatia,29,1536,56,RR
+P072,Kartik Tyagi,26,2536,54,RR
+P073,Jaydev Unadkat,35,3589,52,RR
+P074,Mayank Markande,37,1254,23,RR
+P075,Yashasvi Jaiswal,35,1523,20,RR
+P076,Robin Uthappa,38,407,26,RR
+P077,David Miller,35,4520,0,RR
+P078,Shubman Gill,36,4568,0,KKR
+P079,Nitish Rana,32,5968,0,KKR
+P080,Andre Russell,38,4528,56,KKR
+P081,Eoin Morgan,30,4526,25,KKR
+P082,Dinesh Karthik,36,4586,0,KKR
+P083,Rahul Tripathi,38,2563,26,KKR
+P084,Shakib Al Hasan,30,2584,21,KKR
+P085,Vaibhav Arora,40,4526,85,KKR
+P086,Harbhajan Singh,42,997,102,KKR
+P087,Ben Cutting,36,1253,56,KKR
+P088,Pawan Negi,33,256,25,KKR
